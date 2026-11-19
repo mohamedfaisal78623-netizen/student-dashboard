@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 import { useState } from "react";
 import "./App.css";
@@ -739,8 +740,20 @@ function App() {
         </footer>
 
       </main>
+=======
+import StudentCard from "./student-card.jsx";
+
+function App() {
+  return (
+    <div>
+      <StudentCard />
+>>>>>>> 42b45084590a14e1fe59af9f6157d54e85c8594c
     </div>
   );
 }
 
+<<<<<<< HEAD
 export default App;
+=======
+export default App;
+>>>>>>> 42b45084590a14e1fe59af9f6157d54e85c8594c
